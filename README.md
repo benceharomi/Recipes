@@ -1,7 +1,7 @@
 # Recipes
 Android application written in Kotlin to collect and share food recipes
 
-![](assets/recipes_v1_screenshot_01.jpg=100x)
+![](assets/recipes_v1_screenshot_01.jpg) { width=50% }
 ![](assets/recipes_v1_screenshot_02.jpg)
 ![](assets/recipes_v1_screenshot_03.jpg)
 ![](assets/recipes_v1_screenshot_04.jpg)
