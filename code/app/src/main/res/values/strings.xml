@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="recipe_item_name">Recipe item name</string>
+    <string name="new_recipe_item">New recipe</string>
+    <string name="edit_recipe_item">Edit recipe</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="recipe_name">Recipe name</string>
+    <string name="recipe_description">Recipe Description</string>
+    <string name="remove_all_dialog_message">Are you sure?</string>
+    <string name="detailsText">details_text</string>
+    <string name="remove">Remove</string>
+    <string name="edit">Edit</string>
+    <string name="scan_qr_code">Scan QR code</string>
+    <string name="recipe_import_successful">Recipe import was successful</string>
+    <string name="scan_cancelled">Scan was cancelled</string>
+    <string name="add_new_recipe">Add new Recipe</string>
+    <string name="qr_code_for_sharing">QR code for sharing</string>
+</resources>
